@@ -12,7 +12,7 @@
   "dependencies": {
     "mocha": "^5.0.0",
     "mocha-performance": "^0.1.1",
-    "vast-builder": "^0.1.2",
-    "vast-xml": "^1.3.0"
+    "vast-builder": "latest",
+    "vast-xml": "latest"
   }
 }
